@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Brian Mills 👋
 
-<!--
-**brianmills-code/brianmills-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science writer and programming enthusiast interested in
+practical programming, computational problem-solving, and technology.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MATLAB & Numerical Computing
+- Python
+- Java
+- C++
+- Algorithms & Data Structures
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Software Development
+
+## Current Focus
+
+Exploring programming concepts through practical examples,
+experiments, and student-focused learning resources.
