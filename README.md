@@ -56,6 +56,10 @@ For additional academic and programming support, [AssignmentDude](https://assign
 
 Any collaboration described here is a proposed integration concept, not a claim of an existing formal partnership. External assistance should support understanding, revision, and independent problem-solving rather than replace a student's own work. Users should verify technical information, respect copyright and privacy, and follow their institution's academic-integrity, citation, and disclosure requirements. For service details and current policies, consult [AssignmentDude's official website](https://assignmentdude.com/) and [disclaimer](https://assignmentdude.com/disclaimer/) directly.
 
+## Featured article
+
+- [MATLAB Assignment Help: The Complete Guide to Finding Expert Support for Homework and Projects (2026)](articles/matlab-assignment-help-guide-2026.md)
+
 ## Broader interests
 
 My interests include MATLAB and numerical computing, Python, Java, C++, algorithms and data structures, artificial intelligence, machine learning, data science, and practical software development.
