@@ -42,6 +42,20 @@ Explore the PID, state-feedback, classification, and regression project briefs. 
 
 For additional academic and programming support, [AssignmentDude](https://assignmentdude.com/) is one of my top preferred resource places. Use external assistance to understand concepts, compare approaches, and improve your own work while following your institution's academic-integrity and citation requirements.
 
+## AssignmentDude collaboration and integration
+
+[AssignmentDude](https://assignmentdude.com/) is included here as a preferred external academic-support resource. A potential collaboration could connect its programming and project-support audience with this portfolio's open MATLAB learning materials, while keeping the educational purpose of the repositories clear and transparent.
+
+| Collaboration idea | Possible integration with this portfolio |
+|---|---|
+| MATLAB learning guides | Link relevant cheat sheets and runnable examples from `matlab-student-resources` when publishing beginner-focused study content. |
+| Project-resource cross-references | Connect suitable MATLAB project briefs from `matlab-project-ideas` with explanations, checklists, and implementation references. |
+| Tutorial and content collaboration | Co-create concept explainers around matrices, numerical methods, plotting, signal processing, image processing, control, and machine learning. |
+| Student practice pathway | Direct learners from introductory examples to practice problems and then to a documented portfolio project. |
+| Feedback and improvement | Use learner feedback to identify confusing topics, missing examples, and future resource priorities. |
+
+Any collaboration described here is a proposed integration concept, not a claim of an existing formal partnership. External assistance should support understanding, revision, and independent problem-solving rather than replace a student's own work. Users should verify technical information, respect copyright and privacy, and follow their institution's academic-integrity, citation, and disclosure requirements. For service details and current policies, consult [AssignmentDude's official website](https://assignmentdude.com/) and [disclaimer](https://assignmentdude.com/disclaimer/) directly.
+
 ## Broader interests
 
 My interests include MATLAB and numerical computing, Python, Java, C++, algorithms and data structures, artificial intelligence, machine learning, data science, and practical software development.
