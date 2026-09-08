@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/matlab-portfolio-banner.png" alt="MATLAB Programming and Learning Portfolio banner" width="100%">
+</p>
+
 # MATLAB Programming & Learning Portfolio
 
 Welcome to my programming and computational-learning portfolio. This profile brings together practical MATLAB examples, structured project ideas, and student-focused reference material. The repositories are designed to work as a connected learning system: learn a concept, practice it, build a project, and document the result.
