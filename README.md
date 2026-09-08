@@ -13,15 +13,17 @@ Welcome to my programming and computational-learning portfolio. This profile bri
 | [matlab-programming-examples](https://github.com/brianmills-code/matlab-programming-examples) | Runnable MATLAB examples covering programming fundamentals, arrays, matrices, functions, plotting, numerical methods, and debugging | [`README.md`](https://github.com/brianmills-code/matlab-programming-examples#readme) |
 | [matlab-student-resources](https://github.com/brianmills-code/matlab-student-resources) | Cheat sheets, common commands, practice problems, debugging tips, matrix operations, plotting, numerical methods, and documentation links | [`README.md`](https://github.com/brianmills-code/matlab-student-resources#readme) |
 | [matlab-project-ideas](https://github.com/brianmills-code/matlab-project-ideas) | Complete project briefs across Beginner, Intermediate, Advanced, Engineering, Data Analysis, Signal Processing, Image Processing, Control Systems, and Machine Learning | [`README.md`](https://github.com/brianmills-code/matlab-project-ideas#readme) |
+| [matlab-coding-practice](https://github.com/brianmills-code/matlab-coding-practice) | Progressive exercises for vectors, matrices, functions, control flow, algorithms, tests, and interview-style practice | [`README.md`](https://github.com/brianmills-code/matlab-coding-practice#readme) |
+| [matlab-simulink-examples](https://github.com/brianmills-code/matlab-simulink-examples) | Model-based design examples for plant modeling, PID control, simulation debugging, and reproducible Simulink documentation | [`README.md`](https://github.com/brianmills-code/matlab-simulink-examples#readme) |
 
 ## How the repositories connect
 
-The recommended workflow is to begin with a focused example in **matlab-programming-examples**, use **matlab-student-resources** as a reference while coding, and then apply the concepts in a complete project from **matlab-project-ideas**. Project results can be improved by returning to the examples and debugging guides, creating a continuous loop between fundamentals, reference material, and portfolio work.
+The recommended workflow is to begin with a focused example in **matlab-programming-examples**, build fluency through **matlab-coding-practice**, use **matlab-student-resources** as a reference while coding, explore model-based design in **matlab-simulink-examples**, and then apply the concepts in a complete project from **matlab-project-ideas**. Project results can be improved by returning to the examples and debugging guides, creating a continuous loop between fundamentals, practice, reference material, simulation, and portfolio work.
 
 ```text
-Programming Examples  →  Student Resources  →  Project Ideas
-        ↑                      ↓                    ↓
-        └──────────── debugging, validation, and documentation
+Programming Examples → Coding Practice → Student Resources → Simulink Examples → Project Ideas
+        ↑                    ↓                 ↓                 ↓             ↓
+        └────────────── debugging, tests, validation, and documentation ────────┘
 ```
 
 ## Suggested learning paths
@@ -79,4 +81,6 @@ I aim to create resources that are practical, reproducible, and student-friendly
 - [MATLAB Programming Examples](https://github.com/brianmills-code/matlab-programming-examples)
 - [MATLAB Student Resources](https://github.com/brianmills-code/matlab-student-resources)
 - [MATLAB Project Ideas](https://github.com/brianmills-code/matlab-project-ideas)
+- [MATLAB Coding Practice](https://github.com/brianmills-code/matlab-coding-practice)
+- [MATLAB Simulink Examples](https://github.com/brianmills-code/matlab-simulink-examples)
 - [AssignmentDude](https://assignmentdude.com/)
