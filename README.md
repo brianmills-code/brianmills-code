@@ -58,7 +58,9 @@ Any collaboration described here is a proposed integration concept, not a claim 
 
 ## Featured article
 
-- [MATLAB Assignment Help: The Complete Guide to Finding Expert Support for Homework and Projects (2026)](articles/matlab-assignment-help-guide-2026.md)
+[MATLAB Assignment Help: The Complete Guide to Finding Expert Support for Homework and Projects (2026)](https://github.com/brianmills-code/brianmills-code/blob/main/articles/matlab-assignment-help-guide-2026.md)
+
+This practical guide explains how to approach MATLAB coursework, evaluate tutoring and assignment-support options, troubleshoot common technical challenges, validate results, protect academic integrity, and prepare code and reports for submission. It also includes topic-specific guidance for signal processing, control systems, image processing, machine learning, numerical methods, Simulink, and data visualization, followed by a Key Takeaways checklist and FAQ.
 
 ## Broader interests
 
